@@ -1,0 +1,2 @@
+# AmalieWiki
+Amalies wiki
